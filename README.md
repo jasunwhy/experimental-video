@@ -16,5 +16,5 @@ Introduction to branch:
      Experimental-video-of-RRT+Mean-shift-in-real-environment.
      Experimental-video-of-our-methods-in-real-environment.
    These several documents detail the exploration time, the total length of the trajectory, the map coverage of the different algorithms in the office environment.
-   3. Frontier-point-benefit-experiment
+   3. Frontier-point-benefit-experiment:
    The document details the comparison before and after optimization of the frontier point revenue experiment.
