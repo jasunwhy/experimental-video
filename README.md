@@ -1,7 +1,7 @@
 Optimized GL-RRT Based Exploration for Indoor Mobile Robots Using Adaptive K-Means++ Clustering: Experimental.
 
 Introduction:
-  This repository provides the relevant experimental videos of the experimental data in the paper, which you can download and watch directly
+  This repository provides the relevant experimental videos of the experimental data in the paper, which you can download and watch directly.
 
 Introduction to branch:
    1. Experimental video in simulation environment:
